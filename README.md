@@ -1,5 +1,6 @@
 # Readme generator
-## Description: this generates a readme
+## Description 
+this generates a readme
 ## Table of Contents: true
 ## Installation: npm install
 ## Usage: npm start
