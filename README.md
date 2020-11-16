@@ -1,6 +1,6 @@
 # Readme generator
 ## Description 
-this generates a readme
+CLI that generates a readme from user inputs
 ## Table of Contents: true
 ## Installation: npm install
 ## Usage: npm start
