@@ -1,7 +1,3 @@
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
-
 ## Installation
 
 Use the node package manager [npm](https://nodejs.org/en/) to install foobar.
