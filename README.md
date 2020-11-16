@@ -1,7 +1,3 @@
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
 # Readme generator
 ## Description: this generates a readme
 ## Table of Contents: true
