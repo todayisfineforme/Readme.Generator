@@ -2,7 +2,7 @@
 
 ## Description 
 
-CLI that generates a readme from user inputs
+CLI utilizing inquirer package that generates a readme from user inputs
 
 ## Installation
 
