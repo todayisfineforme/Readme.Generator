@@ -4,13 +4,26 @@
 
 CLI utilizing inquirer package that generates a readme from user inputs
 
+![Readme Generator Screenshot](./readmegensc.jpg)
+
 ## Installation
 
-npm install
+clone repo
+
+-then-
+
+`npm install`
+
+to install dependencies
 
 ## Usage
+navigate to repo in terminal then 
 
-npm start
+`npm start`
+
+answer questions in the command line
+
+readme will be generated in root of repo as `HOMEWORK README.md`
 
 ## License
 
